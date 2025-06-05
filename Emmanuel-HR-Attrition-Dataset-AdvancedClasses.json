@@ -1,0 +1,5 @@
+{
+    "LikelyAttrition": "High attrition risk based on short tenure, poor feedback, and no promotions",
+    "ModerateRisk": "Moderate risk due to some negative indicators",
+    "Stable": "Low attrition risk; long tenure and positive feedback"
+}

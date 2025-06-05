@@ -1,0 +1,6 @@
+{
+    "LikelyAttrition": "Employee likely to leave based on patterns (e.g., short tenure, poor feedback)",
+    "Stable": "Employee with low attrition indicators (e.g., long tenure, high feedback)",
+    "HighPerformer": "Employee with high average feedback and recent promotions",
+    "Stagnant": "Employee with long stay but no promotion or pay raise"
+}
